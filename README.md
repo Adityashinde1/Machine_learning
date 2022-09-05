@@ -13,3 +13,8 @@ Activate the environment
 ``` Python
 conda activate venv/
 ```
+
+Install the requirements
+``` Python
+pip install -r reuirements.txt
+```
