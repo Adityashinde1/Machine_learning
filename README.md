@@ -8,3 +8,8 @@ Create new conda environment
 ``` Python
 conda create -p venv python==3.7 -y
 ```
+
+Activate the environment
+``` Python
+conda activate venv/
+```
